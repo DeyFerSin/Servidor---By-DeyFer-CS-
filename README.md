@@ -9,10 +9,11 @@ Registro de actividades: Se registra la actividad del servidor en un cuadro de t
 Comunicación con clientes: El servidor puede recibir solicitudes de clientes, procesarlas y enviar respuestas adecuadas según la lógica de negocios definida en el código.
 
 **Uso**
+
 Iniciar el servidor: Haga clic en el botón "Start Server" para iniciar el servidor. El servidor comenzará a escuchar en el puerto especificado (3497 en este caso).
 Detener el servidor: Haga clic en el botón "Stop Server" para detener el servidor. Esto cerrará la conexión del servidor y dejará de escuchar en el puerto especificado.
 Registro de actividades: El cuadro de texto en la interfaz de usuario muestra las actividades del servidor, como la conexión de clientes, las solicitudes recibidas y las respuestas enviadas.
 
-El ejemplo es basado para practicar con WPE PRO, o similar (Lo siento, tenía que practicar un poco)
+**El ejemplo es basado para practicar con WPE PRO, o similar (Lo siento, tenía que practicar un poco)**
 
 El código como tal, es un simple ejemplo, en un futuro, quizás realice mejoras, lo siento, no tengo mucho tiempo para seguir modificándolo ahora.
